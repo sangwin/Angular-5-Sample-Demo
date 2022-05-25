@@ -1,6 +1,8 @@
 {
-  "name": "vvvv",
-  "version": "0.0.0",
+  "name": "angular-5-basic-demo-crud-application",
+  "version": "0.0.1",
+  "description": "Angular 5 Basic Demo CRUD Application/Project for Beginners by Sangwin Gawande",
+  "author": "Sangwin Gawande (https://sangw.in)",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
