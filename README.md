@@ -70,4 +70,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=badge&label=Thank%20you%20for%20visiting%20%28Since June%202022%29%20&query=value&url=https://api.countapi.xyz/hit/sangwin.Angular-5-Sample-Demo/readme)
+![visitors](https://img.shields.io/badge/dynamic/json?color=badge&label=Thank%20you%20for%20visiting%20%28Since June%202022%29&query=value&url=https://api.countapi.xyz/hit/sangwin.Angular-5-Sample-Demo/readme)
